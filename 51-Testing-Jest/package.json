@@ -11,5 +11,9 @@
   "devDependencies": {
     "@babel/preset-env": "^7.16.5",
     "jest": "^27.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CursoJavaModerno2"
   }
 }
