@@ -19,6 +19,9 @@ class UI {
             divMensaje.classList.add('alert-success');
         }
 
+        //Agregar el data cy
+        divMensaje.dataset.cy = 'alerta';
+
         // Mensaje de error
         divMensaje.textContent = mensaje;
 
@@ -28,7 +31,7 @@ class UI {
         // Quitar el alert despues de 3 segundos
         setTimeout( () => {
             divMensaje.remove();
-        }, 3000);
+        }, 30000);
     
       
    }
