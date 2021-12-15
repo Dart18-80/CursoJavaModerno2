@@ -1,5 +1,6 @@
 {
     "viewportHeight": 1500,
     "viewportWidth": 1200, 
-    "baseURL": "http://127.0.0.1:5500/52-Testing-Cypress/index.html"
+    "baseURL": "http://127.0.0.1:5500/52-Testing-Cypress/index.html", 
+    "videoCompression": 0
 }
